@@ -16,4 +16,6 @@ This project is designed to curate playlists on your Spotify account. It pulls i
   
   ![2023-11-29](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/9abc9d5f-d6fb-478c-a7ad-ebdfada053e5)
 
-2.3 To run this code you need to provide your 
+2.3 To run this code you need to provide your username, client ID and client secret in line 8 of online_app.py
+
+
