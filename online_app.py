@@ -361,7 +361,7 @@ while user_choice[0].lower() == "0":
             tracks_ids = [track['tracks']['items'][0]['id'] for track in tracks]
             user_choice_playlist = spotifyObject.recommendations(seed_artists=artists_ids, seed_genres=genres, seed_tracks=tracks_ids, limit=50, country=user_country)["tracks"]
             
-            #wcześniej dodać wyświetlanie playlisty
+            
             tracks = [track["tracks"]["items"][0] for track in tracks]
             user_choice_playlist.extend(tracks)
 
@@ -393,4 +393,3 @@ while user_choice[0].lower() == "0":
 
 ###############################################################################################################################
 
-# os.remove(f'.cache-{username}')
