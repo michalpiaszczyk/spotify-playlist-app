@@ -18,4 +18,20 @@ This project is designed to curate playlists on your Spotify account. It pulls i
 
 2.3 To run this code you need to provide your username, client ID and client secret in line 8 of online_app.py
 
+User name:
+
+![user_id2](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/e07f8b16-f004-4279-89b1-dde2fc399d38)
+
+Client ID and Client Secret:
+![clientID](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/8e142c4b-5544-4208-8ce6-00c6769f0688)
+
+
+**3. Running application and granting access:**
+
+Once you installed and provided information you may run the application.
+
+
+   
+
+
 
