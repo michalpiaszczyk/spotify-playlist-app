@@ -28,7 +28,25 @@ Client ID and Client Secret:
 
 **3. Running application and granting access:**
 
-Once you installed and provided information you may run the application.
+3.1 Once you installed and provided information you may run the application.
+
+3.2 You will be redirected to usual login site. Login as always
+![2023-11-30 (1)](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/b83c5e2b-c999-44ee-a6ab-3c9970d65f55)
+
+3.3 Then you have to grant access to your account
+![2023-11-30 (2)](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/2a569cf7-8c26-488f-81e4-2e6185ce9e49)
+
+3.4 You will be redirected to www.wp.pl Copy adress of the site and paste it into python
+![2023-11-30 (3)](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/9b5b71fa-a9aa-4067-910e-3a40240d422a)
+![2023-11-30 (4)](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/5bbf2f4a-51d2-4b3c-833b-178803148786)
+
+3.5 This will store cache file in your system and login will no longer be needed. You may delete the cache after using the app.
+![2023-11-30 (5)](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/31a9660f-690a-4027-845b-22cae30daa79)
+
+
+
+
+
 
 
    
