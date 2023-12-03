@@ -3,7 +3,7 @@ Python code to create spotify playlist based on current track, your best artists
 
 **1. Description**
 
-This project is designed to curate playlists on your Spotify account. It pulls in information about the tracks you are currently listening to, your favourite artists and your favourite songs to create personalised playlist recommendations. These suggestions can be edited and tailored to suit individual preferences. Users can also create recommended playlists based on their music tastes
+This project is designed to create playlists on your Spotify account. It pulls in information about the tracks you are currently listening to, your favourite artists and your favourite songs to create personalised playlist recommendations. These suggestions can be edited and tailored to suit individual preferences. Users can also create recommended playlists based on their music tastes
 
 **2. Instalation**
   
@@ -42,6 +42,32 @@ Client ID and Client Secret:
 
 3.5 This will store cache file in your system and login will no longer be needed. You may delete the cache after using the app.
 ![2023-11-30 (5)](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/31a9660f-690a-4027-845b-22cae30daa79)
+
+**4. Using app**
+1. Run the online_app.py
+2. If you are listening to a song, first playlist will be proposed
+
+![01](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/d9ef9673-ec06-4373-ab11-4476b882be1e)
+
+3. You can save it to your account or not
+4. Then you will be asked what to base the next suggestions on
+
+![02](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/fee2bd92-f697-48a8-8623-0b467cdc5764)
+
+5. Playlist based on artist and on songs can be edited. You will be proposed which songs/asrtist you'd like to have in your playlist
+
+![04](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/213adb58-8b55-4fae-a4c7-2fc80c7c2a31)
+
+
+6. Finally, you may write your own preferences for next playlist
+
+![06](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/38174f72-aeba-4e86-8466-bb335699fbb1)
+
+7. Everytime when you hit to save - the playlist will be added to your account
+
+![05](https://github.com/michalpiaszczyk/spotify-playlist-app/assets/112171020/8226c5aa-3a34-4288-889a-e3b29eb69255)
+
+
 
 
 
